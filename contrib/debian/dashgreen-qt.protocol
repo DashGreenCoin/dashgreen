@@ -1,0 +1,11 @@
+[Protocol]
+exec=dashgreen-qt '%u'
+protocol=dashgreen
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

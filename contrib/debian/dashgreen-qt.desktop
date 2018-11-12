@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DashGreen
+Comment=DashGreen P2P Cryptocurrency
+Comment[fr]=DashGreen, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DashGreen, eşten eşe kriptografik sanal para birimi
+Exec=dashgreen-qt %u
+Terminal=false
+Type=Application
+Icon=dashgreen128
+MimeType=x-scheme-handler/dashgreen;
+Categories=Office;Finance;
